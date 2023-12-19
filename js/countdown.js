@@ -41,9 +41,9 @@ createSnow(300);
 simplyCountdown('#cuenta', {
 	year: 2023, // required
 	month: 12, // required
-	day: 24, // required
-	hours: 23, // Default is 0 [0-23] integer
-	minutes: 60, // Default is 0 [0-59] integer
+	day: 19, // required
+	hours: 1, // Default is 0 [0-23] integer
+	minutes: 39, // Default is 0 [0-59] integer
 	seconds: 0, // Default is 0 [0-59] integer
 	words: { //words displayed into the countdown
 		days: 'Día',
